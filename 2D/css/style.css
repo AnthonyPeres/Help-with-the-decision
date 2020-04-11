@@ -1,0 +1,48 @@
+body {
+	background-color: #B3B1B1;
+	margin: 0px;
+
+}
+.titre {
+	text-align: center;
+}
+#block2{
+	width: 800px;
+	margin:0 auto;
+	position:relative;
+}
+#bande{position: relative; width: 600px; height:730px; background-color: #FFFFFF!important;  border: 2px solid black; border-style:inset; background-color:white;  margin: 0 auto;  }
+
+.infos{
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-top: 5px;
+	border: 1px solid black;
+	border-top: none;
+	border-right: none;
+	max-width: 20%;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	text-align: right;
+
+}
+
+.datas{
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-top : 15px;
+	max-width: 20%;
+	position: absolute;
+	right: 0px;
+	text-align: right;
+}
+
+div.un
+{
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	border:0.7px solid black;
+}

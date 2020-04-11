@@ -1,0 +1,64 @@
+body {
+				background-color: grey;
+				margin: 0px;
+				overflow: hidden;
+			}
+
+#block1
+{
+				padding-left: 15px;
+				padding-bottom: 10px;
+				padding-top: 10px;
+				padding-right: 15px;
+				border: 1px solid black;
+				border-bottom: none;
+				border-left: none;
+				max-width: 25%;
+				position: absolute;
+				bottom : 0px;
+				left: 0px;
+				text-align: left;
+				float: left;
+
+}
+#block2{
+width: 800px; margin:0 auto; position:relative;
+} 
+#bande{position: relative; width: 400px; height:100%; background-color: white;  border: 4px solid black; border-style:dotted; background-color:white;  margin: 0 auto;  }
+#bande1{position: relative; width: 400px; height:400px; background-color: white;  border: 4px solid black;  background-color:white;  margin: 0 auto;  }
+
+.infos{
+				padding-right: 15px;
+				padding-bottom: 5px;
+				padding-left: 15px;
+				padding-top: 5px;
+				border: 1px solid black;
+				border-top: none;
+				border-right: none;
+				max-width: 20%;
+				position: absolute;
+				top: 0px;
+				right: 0px;
+				text-align: right;
+				
+			}
+
+.datas{
+				padding-right: 15px;
+				padding-bottom: 5px;
+				border: 1px solid black;
+				border-bottom: none;
+				border-right: none;
+				max-width: 20%;
+				position: absolute;
+				bottom : 0px;
+				right: 0px;
+				text-align: right;
+			}
+			div.un
+{
+      box-sizing:border-box;
+      -moz-box-sizing:border-box;
+      -webkit-box-sizing:border-box;
+      border:1px solid black;
+    }
